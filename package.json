@@ -28,6 +28,7 @@
     "source-map-support": "^0.4.2"
   },
   "devDependencies": {
+    "typescript": "<2.3",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-istanbul": "^1.1.1",
